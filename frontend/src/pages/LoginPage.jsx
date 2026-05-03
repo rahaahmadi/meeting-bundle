@@ -66,7 +66,7 @@ export default function LoginPage() {
               <span>for meetings, CRM notes, and action lists</span>
             </div>
             <div className="auth-kpi">
-              <strong>5 templates</strong>
+              <strong>Email templates</strong>
               <span>for fast post-meeting follow-up</span>
             </div>
             <div className="auth-kpi">
