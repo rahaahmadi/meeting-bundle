@@ -2,6 +2,13 @@
 
 Web app for turning meetings into actionable bundles: transcripts, AI-generated summaries, CRM notes, tasks, and email drafts—with auth, review, and approval notifications.
 
+
+![Sign in and product overview](assets/preview2.png)
+
+![Meetings workspace dashboard](assets/preview1.png)
+
+![Meeting detail — source input and generate bundle](assets/preview3.png)
+
 ## Tech stack
 
 **Backend:** FastAPI, Uvicorn, SQLAlchemy, OpenAI Responses API, JWT (`Authorization: Bearer <token>`).
@@ -62,3 +69,5 @@ See `backend/.env.example`:
 4. Generate the bundle.
 5. Review and edit outputs, tasks, and emails.
 6. Approve the meeting bundle.
+
+Preview images live in [`assets/`](assets/).
