@@ -13,7 +13,7 @@ Web app for turning meetings into actionable bundles: transcripts, AI-generated 
 
 **Backend:** FastAPI, Uvicorn, SQLAlchemy, OpenAI Responses API, JWT (`Authorization: Bearer <token>`).
 
-**Frontend:** React 18, React Router, Vite, Axios.
+**Frontend:** React.
 
 ### Backend
 
@@ -69,5 +69,3 @@ See `backend/.env.example`:
 4. Generate the bundle.
 5. Review and edit outputs, tasks, and emails.
 6. Approve the meeting bundle.
-
-Preview images live in [`assets/`](assets/).
